@@ -1,0 +1,1 @@
+package com.example.userschool.listener;import com.example.userschool.model.StudentFound;import java.util.List;public interface AbseceListner {    void onAbseceChange(List<StudentFound>isFound);}

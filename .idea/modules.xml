@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UserSchool.iml" filepath="$PROJECT_DIR$/.idea/modules/UserSchool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/UserSchool.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/UserSchool.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mysql-connector-java-5.1.23-bin/UserSchool.mysql-connector-java-5.1.23-bin.iml" filepath="$PROJECT_DIR$/.idea/modules/mysql-connector-java-5.1.23-bin/UserSchool.mysql-connector-java-5.1.23-bin.iml" />
+    </modules>
+  </component>
+</project>
